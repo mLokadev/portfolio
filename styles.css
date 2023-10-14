@@ -162,3 +162,18 @@ ol.a {
     font-size: large;
     font-style:oblique;
 }
+/* Add this CSS code for styling the social icons */
+
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: black;
+    padding: 5px;
+}
